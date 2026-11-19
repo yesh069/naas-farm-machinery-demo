@@ -39,7 +39,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="ftr-bot">
-          <span>© Naas Farm Machinery Ltd. Website redesign concept.</span>
+          <span>© Naas Farm Machinery Ltd. Website redesign concept. Development by <a href="https://cyrtechnologies.com" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>CYR Technologies</a></span>
           <span style={{ display: "flex", gap: 18 }}>
             <a href="https://www.facebook.com/1naasfarmmachery1/" target="_blank" rel="noopener noreferrer">Facebook</a>
             <a href="https://www.instagram.com/naas_farm_machinery/" target="_blank" rel="noopener noreferrer">Instagram</a>
